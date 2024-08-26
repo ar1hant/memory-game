@@ -1,2 +1,2 @@
 # memory-game
-https://aditya6nov.github.io/memory-game/
+https://ar1hant.github.io/memory-game/
